@@ -1,0 +1,7 @@
+/* 共通 css */
+
+h1 {
+    color: red;
+}
+@media (min-width: 600px) {
+}
