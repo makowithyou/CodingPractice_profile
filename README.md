@@ -1,11 +1,7 @@
 # CodingPractice_profile
 
 
-① 入門編：プロフィールサイト／1カラム
-
-https://code-jump.com/profile-menu/
+[① 入門編：プロフィールサイト／1カラム](https://code-jump.com/profile-menu/)
 
 
-デザインデータの場所
-
-https://www.figma.com/design/DKNJLmXYk6IICmAuq3EkVv/profile?m=auto&t=2WTn9UJhCSi0LyZu-6
+[Adobe XD デザインカンプ](https://www.figma.com/design/DKNJLmXYk6IICmAuq3EkVv/profile?m=auto&t=2WTn9UJhCSi0LyZu-6)
