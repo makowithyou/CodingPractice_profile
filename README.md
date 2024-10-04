@@ -3,6 +3,6 @@
 
 [① 入門編：プロフィールサイト／1カラム](https://code-jump.com/profile-menu/)
 
-[Adobe XD デザインカンプ](https://www.figma.com/design/DKNJLmXYk6IICmAuq3EkVv/profile?m=auto&t=2WTn9UJhCSi0LyZu-6)
+[Adobe XD デザインカンプ](https://xd.adobe.com/view/03bbbaee-5ffb-4f82-8b0a-f1c8e32a49e9-56e8/?hints=off)
 
 [デモサイト](https://code-jump.com/demo/html/profile/index.html)
