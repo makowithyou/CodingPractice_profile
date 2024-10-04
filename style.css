@@ -1,7 +1,93 @@
 /* 共通 css */
-
-h1 {
-    color: red;
+:root {
+    --main-bg-color: #FFFFFF;
+    --sub-bg-color: #393E46;
+    --link-color: #24292E;
+    --font-color: #383E45;
 }
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: unset;
+}
+ul {
+    margin: unset;
+    padding: unset;
+}
+li {
+    list-style: none;
+}
+a, a:visited {
+    font-family: Meiryo;
+    font-size: 14.4px;
+    color: var(--link-color);
+    line-height: 1.5;
+    text-decoration: none;
+}
+h2 {
+    font-family: Meiryo;
+    font-weight: bold;
+    font-size: 32px;
+    color: var(--font-color);
+    line-height: 1.5;
+}
+h3 {
+    font-family: Meiryo;
+    font-weight: bold;
+    font-size: 16px;
+    color: var(--font-color);
+    line-height: 1.5;
+}
+p {
+    font-family: Meiryo;
+    font-size: 14.4px;
+    color: var(--font-color);
+    line-height: 1.5;
+    margin: unset;
+}
+p.copy {
+    font-family: Meiryo;
+    font-size: 10px;
+    color: var(--font-color);
+    line-height: 1.5;
+
+}
+div.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding-right: 4%;
+    padding-left: 4%;
+}
+header div.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+header div.logo {
+    background-color: var(--sub-bg-color);
+    color: #ffff;
+    width: 120px;
+    height: 40px;
+    font-size: 19px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header ul {
+    display: flex;
+}
+header li:first-of-type {
+    padding-right: 30px;
+}
+section.main_visual {
+    height: 600px;
+}
+section.main_visual img {
+    width: 100%;
+}
+
 @media (min-width: 600px) {
 }
